@@ -42,4 +42,4 @@ sudo apt update
 ## THIS PROJECT HAS NOT BEEN TESTED IN YEARS
 This was a project I made in 7th grade, I made some basic changes to make
 the code easier to follow and understand, again this has not been tested
-so the cod emay not work as intended.
+so the code may not work as intended.
